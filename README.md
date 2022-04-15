@@ -14,4 +14,4 @@ Steps to run sparkApplication:
 - kubectl apply -f sc.yaml 
 - kubectl apply -f pv-nfs.yaml
 - kubectl apply -f pvc-nfs.yaml
-- kubectl apply -f spark-py-pi.yaml **или** sparkctl create spark-py-pi.yaml
+- kubectl apply -f spark-py-pi.yaml **or** sparkctl create spark-py-pi.yaml
